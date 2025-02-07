@@ -21,6 +21,12 @@ It was created as part of a semester project for the **"Data Structures"** cours
 - Managing municipalities by regions.
 
 ---
-✍ Autor | Author: [Makar Kopytin]
-📧 Kontakt | Contact: [makar.kopytin@proton.me]
-🔗 GitHub: [github.com/your_username](https://github.com/userwithoutanusername)
+
+## 📜 Licence | License
+MIT License  
+
+---
+
+✍ **Autor | Author**: [Makar Kopytin]  
+📧 **Kontakt | Contact**: [makar.kopytin@proton.me]  
+🔗 **GitHub**: [github.com/userwithoutanusername](https://github.com/userwithoutanusername)
